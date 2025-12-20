@@ -47,7 +47,7 @@ It features a modern, user-friendly interface with **convenient settings** that 
 <div align="center" id="download-section">
   <h2>Get Started</h2>
   
-  <a href="">
+  <a href="https://github.com/sanat1ro/Mass-Proxy-Parser-Checker/releases/download/Release/v1.0.0_Portable_x86.rar">
     <img src="https://img.shields.io/badge/DOWNLOAD-v1.0.0-success?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f" height="60" />
   </a>
   
